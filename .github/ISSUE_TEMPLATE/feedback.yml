@@ -1,7 +1,6 @@
 name: Innspill til komponent
 description: Send inn innspill til komponenten
 title: "[Innspill til komponent]: "
-labels: ["feat ✨", "bug 🐛"]
 body:
   - type: markdown
     attributes:
