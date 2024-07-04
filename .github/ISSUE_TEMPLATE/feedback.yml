@@ -10,4 +10,4 @@ body:
   - type: textarea
     attributes:
       label: Innspill
-      description: Beskriv hvilke innspill du har til komponenten
+      description: Beskriv funksjonaliten du ønsker eller feilen du har oppdaget.
