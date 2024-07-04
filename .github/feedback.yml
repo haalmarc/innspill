@@ -1,0 +1,12 @@
+name: Innspill til komponent
+title: "[Innspill til komponent]: "
+labels: ["feat ✨", "bug 🐛"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Takk for bidraget!
+  - type: textarea
+    attributes:
+      label: Innspill
+      description: Beskriv hvilke innspill du har til komponenten
